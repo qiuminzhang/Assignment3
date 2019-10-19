@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Main-Class: App
+Class-Path: stax-api-1.0.1.jar jersey-server-1.19.jar jetty-util-ajax-9.
+ 3.24.v20180605.jar commons-cli-1.2.jar commons-math-2.1.jar jaxb-api-2.
+ 2.2.jar leveldbjni-all-1.8.jar xmlenc-0.52.jar jetty-io-9.3.24.v2018060
+ 5.jar jsr311-api-1.1.1.jar oro-2.0.8.jar jetty-http-9.3.24.v20180605.ja
+ r stax-api-1.0-2.jar activation-1.1.jar commons-logging-1.1.3.jar liste
+ nablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar jetty-6.1.26.
+ jar jackson-xc-1.7.1.jar jackson-core-2.9.8.jar servlet-api-2.5-6.1.14.
+ jar jsp-api-2.1-6.1.14.jar jetty-util-9.3.24.v20180605.jar jasper-compi
+ ler-5.5.12.jar log4j-1.2.17.jar commons-daemon-1.0.13.jar jasper-runtim
+ e-5.5.12.jar failureaccess-1.0.jar jsr305-3.0.2.jar hsqldb-1.8.0.10.jar
+  error_prone_annotations-2.2.0.jar jackson-annotations-2.9.0.jar jackso
+ n-core-asl-1.7.1.jar jackson-databind-2.9.8.jar servlet-api-2.5-2008121
+ 1.jar commons-lang-2.4.jar jets3t-0.6.1.jar jersey-core-1.19.jar j2objc
+ -annotations-1.1.jar jackson-jaxrs-1.7.1.jar htrace-core4-4.1.0-incubat
+ ing.jar commons-net-1.4.1.jar protobuf-java-2.5.0.jar commons-el-1.0.ja
+ r commons-codec-1.11.jar hadoop-hdfs-3.2.1.jar netty-all-4.0.52.Final.j
+ ar commons-digester-1.8.jar ant-1.6.5.jar hadoop-core-1.2.1.jar guava-2
+ 7.0-jre.jar jetty-server-9.3.24.v20180605.jar jsp-2.1-6.1.14.jar core-3
+ .1.1.jar jettison-1.1.jar commons-io-2.5.jar jackson-mapper-asl-1.8.8.j
+ ar junit-3.8.1.jar jersey-json-1.8.jar jaxb-impl-2.2.3-1.jar netty-3.10
+ .5.Final.jar commons-httpclient-3.0.1.jar checker-qual-2.5.2.jar common
+ s-beanutils-1.7.0.jar animal-sniffer-annotations-1.17.jar commons-beanu
+ tils-core-1.8.0.jar javax.servlet-api-3.1.0.jar commons-collections-3.2
+ .1.jar commons-configuration-1.6.jar jetty-util-6.1.26.jar
+

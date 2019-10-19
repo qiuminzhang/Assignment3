@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="AccessLog:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AccessLog_jar</output-path>
+    <root id="root">
+      <element id="archive" name="AccessLog.jar">
+        <element id="module-output" name="AccessLog" />
+      </element>
+    </root>
+  </artifact>
+</component>
